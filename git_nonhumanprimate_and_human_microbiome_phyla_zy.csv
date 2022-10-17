@@ -1,0 +1,160 @@
+order,PhylGroup,monkey,mean_phylum_abundance,taxa,CommonName,study,monkey_order
+1,Lemur,Eulemur rubriventer,2.22,Tenericutes,Red bellied lemur,Mann et al. 2020,1
+2,Lemur,Eulemur rubriventer,7.64,Kiritimatiellaeota,Red bellied lemur,Mann et al. 2020,1
+3,Lemur,Eulemur rubriventer,0,Spirochaetes,Red bellied lemur,Mann et al. 2020,1
+4,Lemur,Eulemur rubriventer,13.58,Proteobacteria,Red bellied lemur,Mann et al. 2020,1
+5,Lemur,Eulemur rubriventer,5.72,Cyanobacteria,Red bellied lemur,Mann et al. 2020,1
+6,Lemur,Eulemur rubriventer,0,Rare or unassigned,Red bellied lemur,Mann et al. 2020,1
+7,Lemur,Eulemur rubriventer,22.88,Firmicutes,Red bellied lemur,Mann et al. 2020,1
+8,Lemur,Eulemur rubriventer,45.88,Bacteroidetes,Red bellied lemur,Mann et al. 2020,1
+9,Lemur,Eulemur rubriventer,1.06,Actinobacteria,Red bellied lemur,Mann et al. 2020,1
+10,Lemur,Eulemur rubriventer,1.02,Euryarchaeota,Red bellied lemur,Mann et al. 2020,1
+11,Lemur,Propithecus verreauxi,19.24,Bacteroidetes,White sifaka,Mann et al. 2020,2
+12,Lemur,Propithecus verreauxi,52.78,Firmicutes,White sifaka,Mann et al. 2020,2
+13,Lemur,Propithecus verreauxi,0,Spirochaetes,White sifaka,Mann et al. 2020,2
+14,Lemur,Propithecus verreauxi,1.996,Actinobacteria,White sifaka,Mann et al. 2020,2
+15,Lemur,Propithecus verreauxi,8.116,Cyanobacteria,White sifaka,Mann et al. 2020,2
+16,Lemur,Propithecus verreauxi,0,Euryarchaeota,White sifaka,Mann et al. 2020,2
+17,Lemur,Propithecus verreauxi,8.656,Proteobacteria,White sifaka,Mann et al. 2020,2
+18,Lemur,Propithecus verreauxi,1.712,Rare or unassigned,White sifaka,Mann et al. 2020,2
+19,Lemur,Propithecus verreauxi,1.712,Tenericutes,White sifaka,Mann et al. 2020,2
+20,Lemur,Propithecus verreauxi,5.788,Kiritimatiellaeota,White sifaka,Mann et al. 2020,2
+21,New_World,Alouatta pigra,0,Rare or unassigned,Guatemalan black howler,Mann et al. 2020,3
+22,New_World,Alouatta pigra,0.02,Kiritimatiellaeota,Guatemalan black howler,Mann et al. 2020,3
+23,New_World,Alouatta pigra,10.96,Tenericutes,Guatemalan black howler,Mann et al. 2020,3
+24,New_World,Alouatta pigra,4.26,Proteobacteria,Guatemalan black howler,Mann et al. 2020,3
+25,New_World,Alouatta pigra,0,Euryarchaeota,Guatemalan black howler,Mann et al. 2020,3
+26,New_World,Alouatta pigra,0,Spirochaetes,Guatemalan black howler,Mann et al. 2020,3
+27,New_World,Alouatta pigra,62.88,Firmicutes,Guatemalan black howler,Mann et al. 2020,3
+28,New_World,Alouatta pigra,4.92,Cyanobacteria,Guatemalan black howler,Mann et al. 2020,3
+29,New_World,Alouatta pigra,0.12,Actinobacteria,Guatemalan black howler,Mann et al. 2020,3
+30,New_World,Alouatta pigra,16.84,Bacteroidetes,Guatemalan black howler,Mann et al. 2020,3
+31,New_World,Alouatta seniculus,18.56,Tenericutes,Venezuelan red howler,Mann et al. 2020,4
+32,New_World,Alouatta seniculus,6.833333333,Proteobacteria,Venezuelan red howler,Mann et al. 2020,4
+33,New_World,Alouatta seniculus,0.073333333,Rare or unassigned,Venezuelan red howler,Mann et al. 2020,4
+34,New_World,Alouatta seniculus,63.36666667,Firmicutes,Venezuelan red howler,Mann et al. 2020,4
+35,New_World,Alouatta seniculus,0,Spirochaetes,Venezuelan red howler,Mann et al. 2020,4
+36,New_World,Alouatta seniculus,0.733333333,Cyanobacteria,Venezuelan red howler,Mann et al. 2020,4
+37,New_World,Alouatta seniculus,0.026666667,Actinobacteria,Venezuelan red howler,Mann et al. 2020,4
+38,New_World,Alouatta seniculus,0,Kiritimatiellaeota,Venezuelan red howler,Mann et al. 2020,4
+39,New_World,Alouatta seniculus,0,Euryarchaeota,Venezuelan red howler,Mann et al. 2020,4
+40,New_World,Alouatta seniculus,10.40666667,Bacteroidetes,Venezuelan red howler,Mann et al. 2020,4
+41,New_World,Ateles belzebuth,5.555,Cyanobacteria,White bellied spider monkey,Mann et al. 2020,5
+42,New_World,Ateles belzebuth,41.905,Firmicutes,White bellied spider monkey,Mann et al. 2020,5
+43,New_World,Ateles belzebuth,3.315,Proteobacteria,White bellied spider monkey,Mann et al. 2020,5
+44,New_World,Ateles belzebuth,1.645,Tenericutes,White bellied spider monkey,Mann et al. 2020,5
+45,New_World,Ateles belzebuth,0.475,Actinobacteria,White bellied spider monkey,Mann et al. 2020,5
+46,New_World,Ateles belzebuth,0.35,Euryarchaeota,White bellied spider monkey,Mann et al. 2020,5
+47,New_World,Ateles belzebuth,0,Spirochaetes,White bellied spider monkey,Mann et al. 2020,5
+48,New_World,Ateles belzebuth,46.735,Bacteroidetes,White bellied spider monkey,Mann et al. 2020,5
+49,New_World,Ateles belzebuth,0.005,Kiritimatiellaeota,White bellied spider monkey,Mann et al. 2020,5
+50,New_World,Ateles belzebuth,0.015,Rare or unassigned,White bellied spider monkey,Mann et al. 2020,5
+51,New_World,Ateles hybridus,2.26,Actinobacteria,Brown spider monkey,Mann et al. 2020,6
+52,New_World,Ateles hybridus,40.32,Bacteroidetes,Brown spider monkey,Mann et al. 2020,6
+53,New_World,Ateles hybridus,0,Euryarchaeota,Brown spider monkey,Mann et al. 2020,6
+54,New_World,Ateles hybridus,45.52,Firmicutes,Brown spider monkey,Mann et al. 2020,6
+55,New_World,Ateles hybridus,0.42,Rare or unassigned,Brown spider monkey,Mann et al. 2020,6
+56,New_World,Ateles hybridus,0,Spirochaetes,Brown spider monkey,Mann et al. 2020,6
+57,New_World,Ateles hybridus,6.3,Kiritimatiellaeota,Brown spider monkey,Mann et al. 2020,6
+58,New_World,Ateles hybridus,0.44,Cyanobacteria,Brown spider monkey,Mann et al. 2020,6
+59,New_World,Ateles hybridus,1.84,Proteobacteria,Brown spider monkey,Mann et al. 2020,6
+60,New_World,Ateles hybridus,2.9,Tenericutes,Brown spider monkey,Mann et al. 2020,6
+61,New_World,Lagothrix lagotricha,0,Euryarchaeota,Brown woolly monkey,Mann et al. 2020,7
+62,New_World,Lagothrix lagotricha,0.355,Actinobacteria,Brown woolly monkey,Mann et al. 2020,7
+63,New_World,Lagothrix lagotricha,8.47,Tenericutes,Brown woolly monkey,Mann et al. 2020,7
+64,New_World,Lagothrix lagotricha,8.815,Cyanobacteria,Brown woolly monkey,Mann et al. 2020,7
+65,New_World,Lagothrix lagotricha,0.01,Rare or unassigned,Brown woolly monkey,Mann et al. 2020,7
+66,New_World,Lagothrix lagotricha,0,Kiritimatiellaeota,Brown woolly monkey,Mann et al. 2020,7
+67,New_World,Lagothrix lagotricha,12.415,Bacteroidetes,Brown woolly monkey,Mann et al. 2020,7
+68,New_World,Lagothrix lagotricha,65.805,Firmicutes,Brown woolly monkey,Mann et al. 2020,7
+69,New_World,Lagothrix lagotricha,4.13,Proteobacteria,Brown woolly monkey,Mann et al. 2020,7
+70,New_World,Lagothrix lagotricha,0,Spirochaetes,Brown woolly monkey,Mann et al. 2020,7
+71,Ape,Gorilla gorilla,1.12,Proteobacteria,Gorilla,Mann et al. 2020,8
+72,Ape,Gorilla gorilla,0.61,Tenericutes,Gorilla,Mann et al. 2020,8
+73,Ape,Gorilla gorilla,54.32,Firmicutes,Gorilla,Mann et al. 2020,8
+74,Ape,Gorilla gorilla,3.78,Spirochaetes,Gorilla,Mann et al. 2020,8
+75,Ape,Gorilla gorilla,2.27,Rare or unassigned,Gorilla,Mann et al. 2020,8
+76,Ape,Gorilla gorilla,27.07,Bacteroidetes,Gorilla,Mann et al. 2020,8
+77,Ape,Gorilla gorilla,5.31,Kiritimatiellaeota,Gorilla,Mann et al. 2020,8
+78,Ape,Gorilla gorilla,0.22,Cyanobacteria,Gorilla,Mann et al. 2020,8
+79,Ape,Gorilla gorilla,4.44,Actinobacteria,Gorilla,Mann et al. 2020,8
+80,Ape,Gorilla gorilla,0.86,Euryarchaeota,Gorilla,Mann et al. 2020,8
+81,Ape,Homo sapiens,2.722111255,Actinobacteria,Human,Berer et al. 2017,9
+82,Ape,Homo sapiens,13.12010108,Bacteroidetes,Human,Berer et al. 2017,9
+83,Ape,Homo sapiens,0.298972567,Cyanobacteria,Human,Berer et al. 2017,9
+84,Ape,Homo sapiens,0.019999433,Euryarchaeota,Human,Berer et al. 2017,9
+85,Ape,Homo sapiens,80.16970861,Firmicutes,Human,Berer et al. 2017,9
+86,Ape,Homo sapiens,0.165817622,Kiritimatiellaeota,Human,Berer et al. 2017,9
+87,Ape,Homo sapiens,2.494021853,Proteobacteria,Human,Berer et al. 2017,9
+88,Ape,Homo sapiens,0.541689679,Rare or unassigned,Human,Berer et al. 2017,9
+89,Ape,Homo sapiens,0.467577894,Tenericutes,Human,Berer et al. 2017,9
+90,Ape,Pan troglodytes,1.94,Tenericutes,Chimpanzee,Mann et al. 2020,10
+91,Ape,Pan troglodytes,0.335,Spirochaetes,Chimpanzee,Mann et al. 2020,10
+92,Ape,Pan troglodytes,4.745,Actinobacteria,Chimpanzee,Mann et al. 2020,10
+93,Ape,Pan troglodytes,19.735,Bacteroidetes,Chimpanzee,Mann et al. 2020,10
+94,Ape,Pan troglodytes,3.015,Kiritimatiellaeota,Chimpanzee,Mann et al. 2020,10
+95,Ape,Pan troglodytes,52.265,Firmicutes,Chimpanzee,Mann et al. 2020,10
+96,Ape,Pan troglodytes,0.43,Rare or unassigned,Chimpanzee,Mann et al. 2020,10
+97,Ape,Pan troglodytes,12.4,Proteobacteria,Chimpanzee,Mann et al. 2020,10
+98,Ape,Pan troglodytes,4.53,Euryarchaeota,Chimpanzee,Mann et al. 2020,10
+99,Ape,Pan troglodytes,0.605,Cyanobacteria,Chimpanzee,Mann et al. 2020,10
+100,Old_World,Cercopithecus ascanius,0.172,Rare or unassigned,Red tailed monkey,Mann et al. 2020,11
+101,Old_World,Cercopithecus ascanius,1.092,Kiritimatiellaeota,Red tailed monkey,Mann et al. 2020,11
+102,Old_World,Cercopithecus ascanius,2.108,Spirochaetes,Red tailed monkey,Mann et al. 2020,11
+103,Old_World,Cercopithecus ascanius,3.936,Actinobacteria,Red tailed monkey,Mann et al. 2020,11
+104,Old_World,Cercopithecus ascanius,6.152,Tenericutes,Red tailed monkey,Mann et al. 2020,11
+105,Old_World,Cercopithecus ascanius,0.132,Euryarchaeota,Red tailed monkey,Mann et al. 2020,11
+106,Old_World,Cercopithecus ascanius,2.296,Cyanobacteria,Red tailed monkey,Mann et al. 2020,11
+107,Old_World,Cercopithecus ascanius,1.636,Proteobacteria,Red tailed monkey,Mann et al. 2020,11
+108,Old_World,Cercopithecus ascanius,20.3,Bacteroidetes,Red tailed monkey,Mann et al. 2020,11
+109,Old_World,Cercopithecus ascanius,62.176,Firmicutes,Red tailed monkey,Mann et al. 2020,11
+110,Old_World,Colobus guereza,0.64,Rare or unassigned,Mantled guereza,Mann et al. 2020,12
+111,Old_World,Colobus guereza,0.59,Kiritimatiellaeota,Mantled guereza,Mann et al. 2020,12
+112,Old_World,Colobus guereza,0.37,Actinobacteria,Mantled guereza,Mann et al. 2020,12
+113,Old_World,Colobus guereza,6.58,Euryarchaeota,Mantled guereza,Mann et al. 2020,12
+114,Old_World,Colobus guereza,3.7,Tenericutes,Mantled guereza,Mann et al. 2020,12
+115,Old_World,Colobus guereza,0.23,Proteobacteria,Mantled guereza,Mann et al. 2020,12
+116,Old_World,Colobus guereza,0,Spirochaetes,Mantled guereza,Mann et al. 2020,12
+117,Old_World,Colobus guereza,66.33,Firmicutes,Mantled guereza,Mann et al. 2020,12
+118,Old_World,Colobus guereza,0.11,Cyanobacteria,Mantled guereza,Mann et al. 2020,12
+119,Old_World,Colobus guereza,21.45,Bacteroidetes,Mantled guereza,Mann et al. 2020,12
+120,Old_World,Papio hamadryas,6.42,Tenericutes,Hamadryas baboon,Mann et al. 2020,13
+121,Old_World,Papio hamadryas,2.144,Spirochaetes,Hamadryas baboon,Mann et al. 2020,13
+122,Old_World,Papio hamadryas,2.776,Proteobacteria,Hamadryas baboon,Mann et al. 2020,13
+123,Old_World,Papio hamadryas,1.06,Cyanobacteria,Hamadryas baboon,Mann et al. 2020,13
+124,Old_World,Papio hamadryas,56.616,Firmicutes,Hamadryas baboon,Mann et al. 2020,13
+125,Old_World,Papio hamadryas,14.776,Bacteroidetes,Hamadryas baboon,Mann et al. 2020,13
+126,Old_World,Papio hamadryas,2.092,Rare or unassigned,Hamadryas baboon,Mann et al. 2020,13
+127,Old_World,Papio hamadryas,5.928,Kiritimatiellaeota,Hamadryas baboon,Mann et al. 2020,13
+128,Old_World,Papio hamadryas,3.188,Actinobacteria,Hamadryas baboon,Mann et al. 2020,13
+129,Old_World,Papio hamadryas,5,Euryarchaeota,Hamadryas baboon,Mann et al. 2020,13
+130,Old_World,Piliocolobus badius,0.928,Spirochaetes,Western red colobus,Mann et al. 2020,14
+131,Old_World,Piliocolobus badius,0.012,Rare or unassigned,Western red colobus,Mann et al. 2020,14
+132,Old_World,Piliocolobus badius,67.608,Firmicutes,Western red colobus,Mann et al. 2020,14
+133,Old_World,Piliocolobus badius,0.004,Euryarchaeota,Western red colobus,Mann et al. 2020,14
+134,Old_World,Piliocolobus badius,0.856,Proteobacteria,Western red colobus,Mann et al. 2020,14
+135,Old_World,Piliocolobus badius,5.624,Actinobacteria,Western red colobus,Mann et al. 2020,14
+136,Old_World,Piliocolobus badius,7.464,Tenericutes,Western red colobus,Mann et al. 2020,14
+137,Old_World,Piliocolobus badius,2.764,Kiritimatiellaeota,Western red colobus,Mann et al. 2020,14
+138,Old_World,Piliocolobus badius,1.068,Cyanobacteria,Western red colobus,Mann et al. 2020,14
+139,Old_World,Piliocolobus badius,13.672,Bacteroidetes,Western red colobus,Mann et al. 2020,14
+140,Old_World,Theropithecus gelada,2.124,Tenericutes,Gelada,Mann et al. 2020,15
+141,Old_World,Theropithecus gelada,3.86,Rare or unassigned,Gelada,Mann et al. 2020,15
+142,Old_World,Theropithecus gelada,0.736,Actinobacteria,Gelada,Mann et al. 2020,15
+143,Old_World,Theropithecus gelada,4.608,Kiritimatiellaeota,Gelada,Mann et al. 2020,15
+144,Old_World,Theropithecus gelada,1.468,Spirochaetes,Gelada,Mann et al. 2020,15
+145,Old_World,Theropithecus gelada,0.648,Cyanobacteria,Gelada,Mann et al. 2020,15
+146,Old_World,Theropithecus gelada,2.056,Proteobacteria,Gelada,Mann et al. 2020,15
+147,Old_World,Theropithecus gelada,1,Euryarchaeota,Gelada,Mann et al. 2020,15
+148,Old_World,Theropithecus gelada,44.74,Firmicutes,Gelada,Mann et al. 2020,15
+149,Old_World,Theropithecus gelada,38.76,Bacteroidetes,Gelada,Mann et al. 2020,15
+150,Old_World,This study,21.33861192,Actinobacteria,Current study,Current study,16
+151,Old_World,This study,22.15066949,Bacteroidetes,Current study,Current study,16
+152,Old_World,This study,0.96102405,Cyanobacteria,Current study,Current study,16
+153,Old_World,This study,2.999511735,Euryarchaeota,Current study,Current study,16
+154,Old_World,This study,26.57333889,Firmicutes,Current study,Current study,16
+155,Old_World,This study,15.15268295,Kiritimatiellaeota,Current study,Current study,16
+156,Old_World,This study,0.959097999,Proteobacteria,Current study,Current study,16
+157,Old_World,This study,7.342546577,Rare or unassigned,Current study,Current study,16
+158,Old_World,This study,0.619070439,Spirochaetes,Current study,Current study,16
+159,Old_World,This study,1.903445953,Tenericutes,Current study,Current study,16
